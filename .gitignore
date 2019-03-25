@@ -1,6 +1,9 @@
 # Don't include .env files
 .env
 
+#dont include vscode workspace settings
+.vscode
+
 # Just incase glitch messes up
 .git-credentials
 
